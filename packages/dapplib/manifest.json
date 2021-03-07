@@ -1,0 +1,9 @@
+{
+    "name": "dpxverify",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/vanilla": true,
+        "/category/collection/entity": true
+    }
+}
